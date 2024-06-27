@@ -9,3 +9,9 @@ El objetivo principal de este proyecto es analizar y visualizar las brechas exis
 En este repositorio, encontrarás una serie de visualizaciones realizadas con herramientas como Jupyter Notebook y diversas librerías de Python, incluyendo Pandas, Matplotlib, Seaborn, Geopandas, y WordCloud. Estas visualizaciones buscan responder preguntas clave sobre la magnitud de las brechas en los rendimientos de las pruebas de admisión, proporcionando una base para futuras investigaciones y acciones en el ámbito educativo.
 
 Esperamos que estas visualizaciones sirvan como una herramienta útil para comprender mejor las desigualdades educativas y fomentar discusiones informadas sobre cómo abordar estas brechas.
+
+## Estructura del Repositorio
+
+- `notebooks/`: Contiene los Jupyter Notebooks con el código para generar las visualizaciones.
+- `data/`: Incluye los datasets utilizados para el análisis y las visualizaciones.
+- `images/`: Carpeta con las imágenes generadas de las visualizaciones.
