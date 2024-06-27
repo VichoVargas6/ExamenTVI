@@ -13,5 +13,4 @@ Esperamos que estas visualizaciones sirvan como una herramienta útil para compr
 ## Estructura del Repositorio
 
 - `notebooks/`: Contiene los Jupyter Notebooks con el código para generar las visualizaciones.
-- `data/`: Incluye los datasets utilizados para el análisis y las visualizaciones.
 - `images/`: Carpeta con las imágenes generadas de las visualizaciones.
